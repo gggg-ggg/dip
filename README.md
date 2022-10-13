@@ -2,14 +2,13 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# AI for games
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+AI is the future in evry thing so i dicied to work in games section. AI will help games to rise on more for player and campanies.
 
 ## Background
 
